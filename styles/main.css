@@ -1,0 +1,67 @@
+/* colors
+border-bottom - #222222 
+
+*/
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, Helvetica, serif;
+}
+
+/* Header */
+header {
+    padding: 12px 0px 0px 26px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sign-in.btn {
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 4px;
+    padding: 6px 10px;
+    color: #ffffff;
+    margin-right: 26px;
+}
+
+
+/* section hero */
+
+
+/* section features */
+
+
+/* section frequently-asked */
+
+    
+/* Footer */
+footer {
+    max-width: 65%;
+    margin: auto;
+    color: #bfbabb;
+}
+
+.contact-us {
+    margin: 100px 0px 40px 0px;
+}
+
+.footer-tags {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+}
+
+.footer-tag a {
+    text-decoration: none;
+    color: #bfbabb;
+}
+
+.footer-tag a:hover {
+    color: #dddadb;
+}
+
+.Neftlix-Bulgaria {
+    margin: 40px 0px 30px 0px;
+}
