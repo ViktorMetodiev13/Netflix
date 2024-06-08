@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./assets/227_Netflix_logo-512.webp" />
     <title>Netflix</title>
     <link rel="stylesheet" href="./styles/reset.css">
     <link rel="stylesheet" href="./styles/main.css">
@@ -32,7 +33,7 @@
                         <input type="text" placeholder="Email address" class="email">
                     </div>
                     <button class="get-started btn">
-                        <span class="get-started-text">Try 30 Days Free</span> 
+                        <span class="get-started-text">Try 30 Days Free</span>
                         <i class="fas fa-chevron-right"></i>
                     </button>
                 </div>
@@ -41,42 +42,48 @@
         </section>
 
         <section id="features">
-            <article class="feature">
-                <div class="feature-info">
-                    <h2 class="feature-title">Enjoy on your TV.</h2>
-                    <p class="feature-subitle">
-                        Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.
-                    </p>
-                </div>
+            <div class="feature-container">
+                <article class="feature">
+                    <div class="feature-info">
+                        <h2 class="feature-title">Enjoy on your TV.</h2>
+                        <p class="feature-subitle">
+                            Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.
+                        </p>
+                    </div>
 
-                <img src="./assets/enjoy-tv.png" alt="enjoy-on-tv">
-            </article>
+                    <img src="./assets/enjoy-tv.png" alt="enjoy-on-tv-png" class="feature-pic">
+                </article>
+            </div>
 
-            <article class="feature">
-                <div class="feature-info">
-                    <h2 class="feature-title">Download your shows to watch offline.</h2>
-                    <p class="feature-subitle">
-                        Save your favorites easily and always have something to watch.
-                    </p>
-                </div>
+            <div class="feature-container">
+                <article class="feature special">
+                    <div class="feature-info">
+                        <h2 class="feature-title">Download your shows to watch offline.</h2>
+                        <p class="feature-subitle">
+                            Save your favorites easily and always have something to watch.
+                        </p>
+                    </div>
 
-                <img src="./assets/shows.png" alt="enjoy-on-tv">
-            </article>
+                    <img src="./assets/shows.png" alt="shows-png" class="feature-pic">
+                </article>
+            </div>
 
-            <article class="feature">
-                <div class="feature-info">
-                    <h2 class="feature-title">Watch everywhere.</h2>
-                    <p class="feature-subitle">
-                        Save your favorites easily and always have something to watch.
-                    </p>
-                </div>
+            <div class="feature-container">
+                <article class="feature">
+                    <div class="feature-info">
+                        <h2 class="feature-title">Watch everywhere.</h2>
+                        <p class="feature-subitle">
+                            Save your favorites easily and always have something to watch.
+                        </p>
+                    </div>
 
-                <img src="./assets/watch-everywhere.png" alt="enjoy-on-tv">
-            </article>
+                    <img src="./assets/watch-everywhere.png" alt="watch-everywhere-png" class="feature-pic">
+                </article>
+            </div>
         </section>
 
         <section id="frequently-asked">
-            <!-- TODO: add table with asked questions -->
+            <h2 class="frequently-asked-title">Frequently Asked Questions</h2>
 
             <p class="call-to-action-text">Ready to watch? Enter your email to create or restart your membership.</p>
             <!-- TODO: add email address label -->

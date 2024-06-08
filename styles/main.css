@@ -36,7 +36,7 @@ header {
 .sign-in.btn:hover {
     background-color: #880808;
     border: 1px solid #880808;
-    transition: 0.4s;
+    transition: 0.5s;
 }
 
 /* section hero */
@@ -53,7 +53,7 @@ header {
 
 .hero-info {
     max-width: 60%;
-    margin: 200px auto 200px auto;
+    margin: 200px auto 280px auto;
     text-align: center;
 }
 
@@ -96,6 +96,12 @@ header {
     padding: 0px 30px;
 }
 
+.get-started.btn:hover {
+    background-color: #880808;
+    border: 1px solid #880808;
+    transition: 0.5s;
+}
+
 .get-started-text {
     color: #ffffff;
     font-size: 20px;
@@ -113,10 +119,48 @@ header {
 }
 
 /* section features */
+.features {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
 
+.feature-container {
+    border-bottom: 8px solid #222222;
+}
+
+.feature {
+    max-width: 65%;
+    display: flex;
+    align-items: center;
+    margin: 60px auto;
+    justify-content: space-between;
+}
+
+.feature-pic {
+    scale: 80%;
+}
+
+.feature-title {
+    font-size: 44px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+.feature-subitle {
+    font-size: 22px;
+}
+
+.special {
+    display: flex;
+    flex-direction: row-reverse;
+}
 
 /* section frequently-asked */
-
+#frequently-asked {
+    border-bottom: 8px solid #222222;
+    text-align: center;
+}
     
 /* Footer */
 footer {
