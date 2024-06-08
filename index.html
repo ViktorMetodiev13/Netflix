@@ -12,7 +12,7 @@
 
 <body>
     <header>
-        <h2><a href="#hero"><img class="neftlix-logo" src="./assets/logo-removebg-preview.png" alt="Netflix"></a></h2>
+        <h2><img class="neftlix-logo" src="./assets/logo-removebg-preview.png" alt="Netflix"></h2>
 
         <button class="sign-in btn">Sign In</button>
     </header>
@@ -22,12 +22,20 @@
             <img src="./assets/bg.jpg" alt="hero-img" class="hero-img">
 
             <div class="hero-info">
-                <h1 class="hero-title">Unlimited movies, TV shows, and more.</h1>
+                <h1 class="hero-title">Unlimited movies, TV shows, and more</h1>
                 <p class="hero-subtitle">Watch anywhere. Cancel anytime.</p>
 
                 <p class="call-to-action-text">Ready to watch? Enter your email to create or restart your membership.
                 </p>
-                <!-- TODO: add email address label -->
+                <div class="call-to-action section">
+                    <div class="input-div">
+                        <input type="text" placeholder="Email address" class="email">
+                    </div>
+                    <button class="get-started btn">
+                        <span class="get-started-text">Try 30 Days Free</span> 
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
                 <p class="offer-text">Only new members are eligible for this offer.</p>
             </div>
         </section>
@@ -74,7 +82,7 @@
             <!-- TODO: add email address label -->
         </section>
     </main>
-    
+
     <footer>
         <p class="contact-us">Questions? Contact us.</p>
 
