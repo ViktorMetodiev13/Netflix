@@ -10,6 +10,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [How it looks like](#how-it-looks-like-here-are-some-screenshots)
 
 ## Features
 
