@@ -46,10 +46,10 @@ To view the website, simply open the `index.html` file in your preferred web bro
 
 - Features Section: 
 ![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255609061160779888/image.png?ex=667dc090&is=667c6f10&hm=ebdc8c9dc2e16ad31f51c13ce8c47b0a7ef4240f4d3adc8f01d9355904293c30&)
-[Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255610124249075835/image.png?ex=667dc18d&is=667c700d&hm=fad098e45fb49d41c59d3d93025755ee7cc873677a2858ec71f5b454dfe61f42&)
+![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255611124087521433/image.png?ex=667dc27c&is=667c70fc&hm=250d49e3547fb7a6d6c23fa960d344be1acf6478666a2236ac5356f2269ac585&)
 
-- Frequently asked questions Section: 
-![Screenshot of Netflix Website](https://shorturl.at/45kXZ)
+- Frequently asked questions Section:
+![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255611301644992612/image.png?ex=667dc2a6&is=667c7126&hm=bfd11cab4b1cfad862855591343a1abefa7730e89999ccc2ec13debd723ae897&)
 
 - Frequently asked questions Section: 
 ![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255609448408285277/image.png?ex=667dc0ec&is=667c6f6c&hm=9b8c12596dc1e56a753f955c7c4615f8b4b60bc2b9c54a37494bc458a3e511cf&)
