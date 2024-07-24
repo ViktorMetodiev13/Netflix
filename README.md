@@ -43,14 +43,14 @@ To view the website, simply open the `index.html` file in your preferred web bro
 ## How it looks like? Here are some screenshots:
 
 - Navigation and Hero Section:
-![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255608646126276679/nav_and_hero_section.png?ex=667dc02d&is=667c6ead&hm=b05c49cc86331bd2c6523c42f93b39f059745f94e26dbb60217f80414b49aee2&)
+![Screenshot of Netflix Website](https://github.com/ViktorMetodiev13/Netflix/blob/main/assets/netflix%20pictures/Hero%20section.png)
 
 - Features Section: 
-![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255609061160779888/image.png?ex=667dc090&is=667c6f10&hm=ebdc8c9dc2e16ad31f51c13ce8c47b0a7ef4240f4d3adc8f01d9355904293c30&)
-![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255611124087521433/image.png?ex=667dc27c&is=667c70fc&hm=250d49e3547fb7a6d6c23fa960d344be1acf6478666a2236ac5356f2269ac585&)
+![Screenshot of Netflix Website](https://github.com/ViktorMetodiev13/Netflix/blob/main/assets/netflix%20pictures/features1.png)
+![Screenshot of Netflix Website](https://github.com/ViktorMetodiev13/Netflix/blob/main/assets/netflix%20pictures/features2.png)
 
 - Frequently asked questions Section:
-![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255611301644992612/image.png?ex=667dc2a6&is=667c7126&hm=bfd11cab4b1cfad862855591343a1abefa7730e89999ccc2ec13debd723ae897&)
+![Screenshot of Netflix Website](https://github.com/ViktorMetodiev13/Netflix/blob/main/assets/netflix%20pictures/frequently-asked.png)
 
 - Footer: 
-![Screenshot of Netflix Website](https://cdn.discordapp.com/attachments/653348819832143879/1255609448408285277/image.png?ex=667dc0ec&is=667c6f6c&hm=9b8c12596dc1e56a753f955c7c4615f8b4b60bc2b9c54a37494bc458a3e511cf&)
+![Screenshot of Netflix Website](https://github.com/ViktorMetodiev13/Netflix/blob/main/assets/netflix%20pictures/footer.png)
